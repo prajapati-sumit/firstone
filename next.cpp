@@ -3,7 +3,7 @@
 using namespace std;
 
 const int MX=4e5+5;
-const int INF=1e9+7;
+const int INF=1e8+7;
 
 int a[MX];
 int LB(int key,int n){
